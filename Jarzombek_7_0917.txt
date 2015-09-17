@@ -1,0 +1,7 @@
+What are the fivediffrent java data types? What are they used for?
+int-This is used for intergers i.e. 1,2,3,4,5,
+float-32 bit data type we use the most
+short, long, double- 16, 64, 64 bit data types used for non interger numbers
+char- a charecter i.e. 1,a,:,{
+string- a collection of charecters
+boolean- on and off
