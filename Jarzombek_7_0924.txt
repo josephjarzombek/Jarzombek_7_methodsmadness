@@ -1,0 +1,7 @@
+Why did Steve Ballmer call the GPL a virus?
+The licensing term claims that all software derived using Linux has to be under the GPL.
+What is the relationship / difference between open source and proprietary software?
+Proprietary software-Distrubitor owns all rights. Open Source software- buyer owns rights.
+What are the differences between the GPL and the MIT license?
+IN the GPL license copyleft is used, with the MIT license any modifications you make you are aloud to claim as proprietery.
+
