@@ -1,0 +1,6 @@
+What is a Java class?
+A java class is a large group of codes that are alike.
+What might a Java class be for javaFX?
+Shapes
+What might be a method for class?
+has four sides
