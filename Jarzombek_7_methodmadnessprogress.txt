@@ -1,0 +1,2 @@
+I have finished my method for making a five point star. And have been working on a for loop to move them across a line. I still need to make my method for stripes and triangle for my image.
+ 
