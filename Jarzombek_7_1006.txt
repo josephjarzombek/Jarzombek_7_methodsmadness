@@ -1,7 +1,0 @@
-What are methods? 
-Methods are codes that you ste outside of the main void. You use them if you want to repeat one codemultiple times.
-What are classes?
-A grouping of alike codes.
-What is an instance? 
-One code in a class.
-What are class methods?
