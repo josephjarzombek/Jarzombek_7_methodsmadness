@@ -1,4 +1,0 @@
-What is an IDE? What is it good for?
-An IDE ia an Integrated developement environment, this is an application that
- provides faclities to programmers that aid them in software developement.
-IDE is good for allowing us to stay organized and work qyuickley in CS.
