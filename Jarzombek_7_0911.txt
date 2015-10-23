@@ -1,6 +1,0 @@
-What is psuedocode? What is it used for? Why will we use it?
-Psuedo code is a fake code that is simpler to write and understand. IT is used as a kind of rough draft for coding. We will use psuedo code in order to run into less problems with
- coding.
-
-
-
